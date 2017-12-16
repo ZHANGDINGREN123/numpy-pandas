@@ -1,0 +1,5 @@
+axis = 0代表跨行(down) = 列(numpy) = 行索引/标签(pandas)
+axis = 1代表夸列(across) = 行(numpy) = 列索引/标签(pandas)
+换句话说，
+axis = 0表示沿着每一列或行索引/标签向下执行方法(down操作)
+axis = 1表示沿着每一行或列索引/标签横向(向右)执行方法(across操作)
