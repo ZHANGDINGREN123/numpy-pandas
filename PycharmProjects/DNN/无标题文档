@@ -1,0 +1,5 @@
+#1~#3为如何定义function
+#4~#6为如何进行gradients
+#24~30为单个神经元网络实例(tiny NN)
+#32为作业：XOR——gate
+

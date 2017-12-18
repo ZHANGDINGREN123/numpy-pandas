@@ -1,0 +1,3 @@
+#1~#9连续图形介绍
+之后为散点图形介绍
+#13:plt.imshow(a, interpolation='nearest', cmap='bone', origin='upper')#注释
