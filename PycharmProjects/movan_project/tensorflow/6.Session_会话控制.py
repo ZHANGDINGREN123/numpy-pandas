@@ -14,6 +14,7 @@ product = tf.matmul(matrix1,matrix2)#矩阵相乘
 
 # method2
 #给tf.Session()起别名sess，并且可以不用执行sess.close()
+##
 with tf.Session() as sess:
     result2 = sess.run(product)
     print result2
