@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b0f8a867-e3e5-4403-bdbe-ae9a9847a45f" name="SXU_Hadoop_Sever" url="http://172.21.176.50">
-        <fileTransfer host="172.21.176.50" port="22" rootFolder="/home/admin/Documents/zhangdingren" accessType="SFTP">
+      <webServer id="f46c7313-5e43-4271-aa13-e857235939c6" name="SXU_GPU_ML" url="http://172.21.176.74">
+        <fileTransfer host="172.21.176.74" port="22" rootFolder="/home/Mac_zhangdinggding" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

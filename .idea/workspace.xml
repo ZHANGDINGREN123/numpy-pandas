@@ -2,11 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af9370b4-ae77-402a-8759-4eb30ee1db80" name="Default" comment="1月29日">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/test/events.out.tfevents.1515035831.zhangdingren" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/train/events.out.tfevents.1515035831.zhangdingren" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/t10k-images-idx3-ubyte.gz" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/t10k-images-idx3-ubyte.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/t10k-labels-idx1-ubyte.gz" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/t10k-labels-idx1-ubyte.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/train-images-idx3-ubyte.gz" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/train-images-idx3-ubyte.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/train-labels-idx1-ubyte.gz" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/MNIST_data/train-labels-idx1-ubyte.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/events.out.tfevents.1515159859.zhangdingren" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/events.out.tfevents.1515159859.zhangdingren" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/events.out.tfevents.1517195790.zhangdingren" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/logs/events.out.tfevents.1517195790.zhangdingren" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/zhangdingding.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhangdingding.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/numpy-pandas.iml" afterPath="$PROJECT_DIR$/.idea/numpy-pandas.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/#1.py" afterPath="$PROJECT_DIR$/Data_Mining/#1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/Data_Mining.iml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/Data_Mining.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/dictionaries/zhangdingding.xml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/dictionaries/zhangdingding.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/misc.xml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/modules.xml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/preferred-vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data_Mining/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Data_Mining/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/PycharmProjects.iml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/PycharmProjects.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/dictionaries/zhangdingding.xml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/dictionaries/zhangdingding.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/misc.xml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/modules.xml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/preferred-vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/.idea/workspace.xml" afterPath="$PROJECT_DIR$/PycharmProjects/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/deployment.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/dictionaries/zhangdingding.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/dictionaries/zhangdingding.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/misc.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/modules.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/movan_project.iml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/movan_project.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/vcs.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/webServers.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/webServers.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/10.eg3_添加层.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/10.eg3_添加层.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/11.eg3_构造神经网络.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/11.eg3_构造神经网络.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/12.eg3_结果可视化.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/12.eg3_结果可视化.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/13.优化器_optimizer.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/13.优化器_optimizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/14.tensorboard.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/14.tensorboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/15.tensorboard2.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/15.tensorboard2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/16.Classification.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/16.Classification.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/17.drop解决过拟合.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/17.drop解决过拟合.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/18.CNN_1.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/18.CNN_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/5.例子2.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/5.例子2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/6.Session_会话控制.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/6.Session_会话控制.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/7.Variable变量.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/7.Variable变量.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/8.placeholder.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/8.placeholder.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/9.激活函数.py" afterPath="$PROJECT_DIR$/PycharmProjects/movan_project/tensorflow/9.激活函数.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PycharmProjects/numpy_pandas/.idea/preferred-vcs.xml" afterPath="$PROJECT_DIR$/PycharmProjects/numpy_pandas/.idea/preferred-vcs.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/PycharmProjects/numpy_pandas/numpy与pandas的axis问题">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -67,8 +110,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-283" />
-    <option name="y" value="169" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -103,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -130,6 +171,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,20 +241,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-283" y="169" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="31" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -238,6 +280,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/主成分分析1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/numpy_pandas/numpy与pandas的axis问题">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/numpy_pandas/#16_合并concat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PycharmProjects/numpy_pandas/numpy与pandas的axis问题">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -301,7 +369,7 @@
     <entry file="file://$PROJECT_DIR$/PycharmProjects/numpy_pandas/numpy与pandas的axis问题">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
